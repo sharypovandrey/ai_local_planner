@@ -1,0 +1,7 @@
+<library path="lib/libai_local_planner">
+  <class name="ai_local_planner/AIPlannerROS" type="ai_local_planner::AIPlannerROS" base_class_type="nav_core::BaseLocalPlanner">
+    <description>
+      A implementation of a local planner using either a AI approach based on configuration parameters.
+    </description>
+  </class>
+</library>
